@@ -20,11 +20,13 @@ Or install it yourself as:
 
     $ gem install rails
 
-## Usage
+- Run `bundle install`
 
-Run on terminal
+- Run `rails db:create db:migrate db:seed`
 
-	$ ./bin/dev
+- Run `./bin/dev` for the local server
+
+- Open Browser `http://localhost:3000/`
 
 ## Author
 
